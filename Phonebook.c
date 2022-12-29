@@ -201,7 +201,7 @@ void delelteone(FILE *fptr)
     FILE *temporary;
     char name[100];
 
-    printf("Enter the name whose contact details to be deleted:");
+    printf("Enter the First name whose contact details to be deleted:");
     fflush(stdin);
     gets(name);
     if(search(fptr,name)==0)
