@@ -10,17 +10,17 @@ Here is our mini project called "**Phonebook Management System**"
 
 Our program contains features like
 
-**• Adding a New Contact to the phonebook **
+**• Adding a New Contact to the phonebook**
 
 **• Update Existing Contact**
 
-**• Display All Existing Contacts **
+**• Display All Existing Contacts**
 
-**• Delete a contact by it's first name **
+**• Delete a contact by it's first name**
 
-**• Search contact details by it's first name **
+**• Search contact details by it's first name**
 
-**• See total number of contacts saved in phonebook **
+**• See total number of contacts saved in phonebook**
 
 **• Exit the Program**
 
