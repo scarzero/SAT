@@ -1,6 +1,7 @@
-/* **It will only run in Windows machine
+/* It will only run in Windows machine
 To run the code in other machine please remove #include<windows.h>
-and system (); commands** */
+and system (); and replace fflush(); with your supported command to clear the buffer in memory 
+commands */
 
 #include <stdio.h>
 #include <string.h>
