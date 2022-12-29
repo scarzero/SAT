@@ -1,3 +1,7 @@
+/* **It will only run in Windows machine
+To run the code in other machine please remove #include<windows.h>
+and system (); commands** */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
