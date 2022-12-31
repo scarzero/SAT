@@ -102,8 +102,8 @@ int main()
 
 
         default:
-            printf("\nError input\n");
             system("cls");
+            printf("\nError input\n");
             printf("Please Enter your choice correctly next time(1 - 8 only)");
 
         }
