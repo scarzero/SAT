@@ -1,6 +1,6 @@
 /* It will only run in Windows machine
 To run the code in other machine please remove #include <windows.h>
-and system (); and replace fflush(); with your supported command to clear the buffer in memory 
+and system("cls"); and replace fflush(); with your supported command to clear the buffer in memory 
   */
 
 #include <stdio.h>
