@@ -108,7 +108,7 @@ int main()
 
         }
 
-        getchar();
+        getch();
 
 
     }
