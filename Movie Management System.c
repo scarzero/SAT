@@ -1,5 +1,7 @@
 //Movie Library management
 
+//****** There maybe some error in handling files code *****
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
